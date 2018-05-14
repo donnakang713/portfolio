@@ -171,7 +171,7 @@
   color: #4a4a4a;
   font-size: 35px;
   line-height: 55px;
-  font-weight: 250;
+  font-weight: 200;
   text-align: center;
 }
 
@@ -1003,6 +1003,7 @@
   color: #ef8e9a;
   letter-spacing: 3px;
   text-transform: uppercase;
+  font-weight: 500;
 }
 
 .button-5.center {
@@ -1013,6 +1014,11 @@
 
 .button-5.right {
   float: right;
+}
+
+.button-5:hover {
+  color: rgba(239, 142, 154, .98);
+  text-decoration: underline;
 }
 
 .button-6 {
@@ -1059,6 +1065,7 @@
   font-size: 11px;
   letter-spacing: 3px;
   text-transform: uppercase;
+  font-weight: 500;
 }
 
 .submit-button:hover {
