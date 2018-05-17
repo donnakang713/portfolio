@@ -1465,11 +1465,9 @@
     padding-bottom: 40px;
   }
   .section.hero {
-    margin: -23px 0px 0px;
     padding-top: 0px;
     padding-bottom: 15px;
     border-style: none;
-    background-color: #f6f6f6;
     background-image: none;
     background-size: auto;
     opacity: 0.91;
@@ -1776,11 +1774,9 @@
     padding-bottom: 30px;
   }
   .section.hero {
-    margin-top: -23px;
     padding-top: 0px;
     padding-bottom: 0px;
     border-style: none;
-    background-color: #f6f6f6;
     background-image: none;
     background-size: auto;
     background-repeat: repeat;
