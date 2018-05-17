@@ -1320,7 +1320,6 @@
     margin-top: 20px;
     margin-bottom: 10px;
     font-size: 30px;
-    letter-spacing: 3px;
   }
   .button {
     display: block;
@@ -1513,7 +1512,6 @@
   .heading.cs {
     margin-top: 10px;
     font-size: 29px;
-    letter-spacing: 3px;
   }
   .heading-2 {
     margin-bottom: 40px;
@@ -1543,7 +1541,6 @@
     float: none;
     font-size: 30px;
     text-align: center;
-    letter-spacing: 3px;
   }
   .button {
     position: static;
@@ -1835,7 +1832,6 @@
   .heading.cs {
     margin-bottom: 6px;
     font-size: 25px;
-    letter-spacing: 3px;
   }
   .heading-2 {
     margin-bottom: 50px;
@@ -1863,7 +1859,6 @@
   .project-heading {
     margin-top: 0px;
     font-size: 25px;
-    letter-spacing: 3px;
   }
   .button {
     position: static;
