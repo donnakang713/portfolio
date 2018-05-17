@@ -1051,6 +1051,12 @@
   color: #ef8e9a;
   letter-spacing: 3px;
   text-transform: uppercase;
+  font-weight: 400;
+}
+
+.button-5:hover {
+  color: rgba(239, 142, 154, .98);
+  text-decoration: underline;
 }
 
 .button-5.center {
@@ -1111,7 +1117,7 @@
 }
 
 .text-block-22 {
-  font-size: 18px;
+  font-size: 17px;
 }
 
 .paragraph-5 {
@@ -1122,7 +1128,7 @@
   margin-top: 50px;
   padding-right: 10%;
   padding-left: 10%;
-  font-size: 18px;
+  font-size: 17px;
   line-height: 30px;
   text-align: left;
 }
@@ -1312,6 +1318,7 @@
     margin-top: 20px;
     margin-bottom: 10px;
     font-size: 30px;
+    letter-spacing: 3px;
   }
   .button {
     display: block;
@@ -1504,6 +1511,7 @@
   .heading.cs {
     margin-top: 10px;
     font-size: 29px;
+    letter-spacing: 3px;
   }
   .heading-2 {
     margin-bottom: 40px;
