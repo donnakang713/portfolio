@@ -62,7 +62,7 @@
 
 .body {
   margin-top: 80px;
-  font-family: Lato, sans-serif;
+  font-family: avenir, sans-serif;
   text-align: center;
 }
 
@@ -171,7 +171,7 @@
 
 .heading {
   margin: 20px auto 15px;
-  font-family: Lato, sans-serif;
+  font-family: avenir, sans-serif;
   color: #000;
   font-size: 35px;
   line-height: 55px;
@@ -186,7 +186,7 @@
 
 .heading-2 {
   margin: 30px auto 80px;
-  font-family: Lato, sans-serif;
+  font-family: avenir, sans-serif;
   color: #000;
   font-size: 20px;
   line-height: 28px;
@@ -209,7 +209,7 @@
   margin-top: 0px;
   margin-right: auto;
   margin-bottom: 20px;
-  font-family: Lato, sans-serif;
+  font-family: avenir, sans-serif;
   color: #4a4a4a;
   font-size: 15px;
   font-weight: 300;
@@ -223,7 +223,7 @@
 
 .project-paragraph {
   margin-bottom: 30px;
-  font-family: Lato, sans-serif;
+  font-family: avenir, sans-serif;
   color: #000;
   font-size: 18px;
   line-height: 30px;
@@ -235,7 +235,7 @@
   margin-top: 23px;
   margin-bottom: 20px;
   padding-top: 0px;
-  font-family: Lato, sans-serif;
+  font-family: avenir, sans-serif;
   color: #000;
   font-size: 30px;
   font-weight: 300;
@@ -351,7 +351,7 @@
 
 .contact-header {
   margin-bottom: 20px;
-  font-family: Lato, sans-serif;
+  font-family: avenir, sans-serif;
   color: #fff;
   font-size: 30px;
   font-weight: 300;
@@ -360,7 +360,7 @@
 .contact-message {
   margin-top: 26px;
   margin-bottom: 35px;
-  font-family: Lato, sans-serif;
+  font-family: avenir, sans-serif;
   color: #fff;
   font-size: 16px;
   line-height: 24px;
@@ -388,7 +388,7 @@
 .copyright {
   margin-top: 10px;
   margin-bottom: 0px;
-  font-family: Lato, sans-serif;
+  font-family: avenir, sans-serif;
   color: #fff;
   font-size: 13px;
   font-weight: 300;
@@ -417,7 +417,7 @@
 .italic-text {
   margin-top: 0px;
   padding-top: 0px;
-  font-family: Lato, sans-serif;
+  font-family: avenir, sans-serif;
   color: #4a4a4a;
   font-size: 17px;
   line-height: 24px;
@@ -482,7 +482,7 @@
 
 .text-block-2 {
   padding-bottom: 0px;
-  font-family: Lato, sans-serif;
+  font-family: avenir, sans-serif;
   color: #4a4a4a;
   font-size: 15px;
   font-weight: 300;
@@ -492,7 +492,7 @@
   margin-top: 2px;
   margin-bottom: 0px;
   padding-bottom: 0px;
-  font-family: Lato, sans-serif;
+  font-family: avenir, sans-serif;
   color: #4a4a4a;
   font-size: 15px;
   font-weight: 700;
@@ -573,7 +573,7 @@
   border-width: 1.5px;
   border-bottom-style: solid;
   border-bottom-color: #ef8e9a;
-  font-family: Lato, sans-serif;
+  font-family: avenir, sans-serif;
   font-size: 20px;
   font-weight: 300;
   text-decoration: none;
@@ -586,7 +586,7 @@
   border-width: 1.5px;
   border-bottom-style: solid;
   border-bottom-color: #ef8e9a;
-  font-family: Lato, sans-serif;
+  font-family: avenir, sans-serif;
   font-size: 20px;
   font-weight: 300;
 }
@@ -601,7 +601,7 @@
   border-width: 1.5px;
   border-bottom-style: solid;
   border-bottom-color: #ef8e9a;
-  font-family: Lato, sans-serif;
+  font-family: avenir, sans-serif;
   font-size: 20px;
   font-weight: 300;
 }
